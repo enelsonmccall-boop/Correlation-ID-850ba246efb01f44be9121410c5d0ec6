@@ -1,0 +1,10 @@
+{
+  "supervised_user": "jeremydw@icloud.com",
+  "supervisor": "enelsonmccall-boop",
+  "activity_logging": true,
+  "admin": {
+    "user": "enelsonmccall-boop",
+    "access_level": "all",
+    "permissions": ["view_logs", "manage_users", "change_supervision_settings", "delete_logs", "add_supervised_users", "remove_supervised_users"]
+  }
+}
